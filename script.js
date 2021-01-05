@@ -15,6 +15,6 @@ console.log(delen);
 let perc = 100 % 2;
 console.log(perc);
 let age = 49;
-console.log(typeof 49);
+console.log(typeof age);
 let woorden = "negenenveertig";
 console.log(typeof woorden);
